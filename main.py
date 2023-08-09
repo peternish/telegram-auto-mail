@@ -1,4 +1,4 @@
-# MADE BY @Lawxsz on github, telegram. don't sell this shit or give me credits
+# MADE BY Peternish on github.
 
 from telethon import TelegramClient, events
 from telethon.tl.functions.channels import JoinChannelRequest
